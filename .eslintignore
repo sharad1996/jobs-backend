@@ -1,0 +1,5 @@
+docs/**
+src/data/seeds/**
+src/api/auth/**
+src/api/user/**
+src/**/*.bak/**

@@ -1,0 +1,7 @@
+node_modules/
+docs/
+.DS_Store
+.env
+prisma/.env
+.env.production
+certificates/
